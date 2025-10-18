@@ -3,7 +3,8 @@
 <!-- <video controls src="giphy_.mp4" title="<video controls src="giphy_.mp4" title="Title"></video>"></video> -->
 <!-- ![My Project Demonstration GIF](images/giphy_.gif) -->
 
-<img src="https://github.com/AnkitaRooj/credit_risk_models/blob/main/giphy_.mp4" width="400" height="300" alt="Demo">
+<!-- <img src="https://github.com/AnkitaRooj/credit_risk_models/blob/main/giphy_.mp4" width="400" height="300" alt="Demo"> -->
+![Demo](https://github.com/AnkitaRooj/credit_risk_models/blob/main/giphy_.mp4)
 
 
 ## Overview
@@ -91,4 +92,5 @@ flake8 . --count --max-line-length=120 --statistics
 ```
 
 Project Link: [https://github.com/yourusername/credit_risk_models](https://github.com/yourusername/credit_risk_models)
+
 
