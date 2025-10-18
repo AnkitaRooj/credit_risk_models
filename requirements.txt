@@ -1,13 +1,13 @@
-pandas
-numpy>=2.0.0
-scikit-learn>=1.7.2
+scikit-learn==1.3.2
+numpy==1.24.3
+pandas==2.0.3
+joblib==1.3.2
 matplotlib
 seaborn
 xgboost
 lightgbm
 catboost
 imbalanced-learn
-joblib
 pytest
 streamlit
 pytest
