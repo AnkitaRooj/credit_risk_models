@@ -4,7 +4,8 @@
 <!-- ![My Project Demonstration GIF](images/giphy_.gif) -->
 
 <!-- <img src="https://github.com/AnkitaRooj/credit_risk_models/blob/main/giphy_.mp4" width="400" height="300" alt="Demo"> -->
-![Demo](https://github.com/AnkitaRooj/credit_risk_models/blob/main/giphy_.mp4)
+
+https://github.com/user-attachments/assets/199d70b6-9bdb-476d-948a-e8c5472d4033
 
 
 ## Overview
@@ -92,5 +93,6 @@ flake8 . --count --max-line-length=120 --statistics
 ```
 
 Project Link: [https://github.com/yourusername/credit_risk_models](https://github.com/yourusername/credit_risk_models)
+
 
 
