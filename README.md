@@ -1,11 +1,6 @@
 ﻿# Credit Risk Analytics Project
 
-<!-- <video controls src="giphy_.mp4" title="<video controls src="giphy_.mp4" title="Title"></video>"></video> -->
-<!-- ![My Project Demonstration GIF](images/giphy_.gif) -->
-
-<!-- <img src="https://github.com/AnkitaRooj/credit_risk_models/blob/main/giphy_.mp4" width="400" height="300" alt="Demo"> -->
-
-https://github.com/user-attachments/assets/199d70b6-9bdb-476d-948a-e8c5472d4033
+![Image](https://github.com/user-attachments/assets/88337dc3-a287-4fdd-8bf1-225207f044c4)
 
 
 ## Overview
@@ -93,6 +88,7 @@ flake8 . --count --max-line-length=120 --statistics
 ```
 
 Project Link: [https://github.com/yourusername/credit_risk_models](https://github.com/yourusername/credit_risk_models)
+
 
 
 
